@@ -1,0 +1,102 @@
+@media all and (max-width:1200px){
+    .box-button a {
+        font-weight: 700;
+        font-size: 11px;
+    }
+    .box-content p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+}
+@media all and (max-width:992px){
+    .header-top-right {
+        width: 30%;
+    }
+    .header-top-right {
+        display: none;
+    }
+    .header-top-left {
+        margin: auto;
+    }
+    .header-bottom-area {
+        display: none;
+    }
+    .header-top-area {
+        padding: 10px 0;
+    }
+    .menu-icon i {
+        color: #fff;
+        font-size: 24px;
+        display: block;
+        position: absolute;
+        left: 5px;
+    }
+    .contact-icon i {
+        color: #fff;
+        font-size: 24px;
+        display: block;
+        position: absolute;
+        right: 6px;
+    }
+    .service56 .col-md-3 {
+        width: 50%;
+    }
+    .project56 .col-md-4 {
+        width: 50%;
+    }
+    .box-button a {
+        font-weight: 500;
+        font-size: 16px;
+    }
+    .box-content p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .team568 .col-md-6 {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .testimonial-button .btn {
+        padding: 15px 35px;
+    }
+    .footer-top-content {
+        width: 55%;
+    }
+    .ftc-left p {
+        font-size: 14px;
+    }
+    .ff-cont124 ul li a {
+        font-size: 12px;
+    }
+    .ff-cont124 ul li a i {
+        font-size: 15px;
+    }
+    .foter12-img img {
+        display: none;
+    }
+}
+@media all and (max-width:767px){
+    .service56 .col-md-3 {
+        width: 100%;
+    }
+    .project56 .col-md-4 {
+        width: 100%;
+    }
+    .box-title {
+        justify-content: center;
+    }
+    .testimonial-button .btn {
+        font-size: 20px;
+        padding: 15px 15px;
+    }
+    .ff-cont124 ul li a i {
+        font-size: 8px;
+        padding: 10px;
+    }
+    .fainal-footer p {
+        font-size: 12px;
+    }
+}
+@media all and (max-width:676px){}
+@media all and (max-width:565px){}
+@media all and (max-width:400px){}
